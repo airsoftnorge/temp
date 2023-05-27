@@ -66,6 +66,8 @@
 * You can only be on your teams color server.
 * You must adhere to the naming convention for squad members detailed in the [Team structure](#team-structure) section.
 
+[Setup instructions](https://airsoftnorge.com/tak)
+
 > Note: If you are on an ios device you can use itak, just be aware it has limited functionality and you might be missing items on your map other players send. 
 >
 > All other TAK rules apply as normal. 
