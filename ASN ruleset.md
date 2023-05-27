@@ -78,7 +78,7 @@ Each squad leader will be issued a squad radio with two channels:
 * Squad leader net for your side.
 * Game admin.
 
-> The squad leader does not have to carry the squad radio, allthough adviseable. 
+> The squad leader does not have to personally carry the squad radio, allthough adviseable. 
 >
 > Any member are allowed to use the squad net through the distributed radios.
 
