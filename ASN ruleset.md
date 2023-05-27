@@ -70,6 +70,23 @@
 >
 > All other TAK rules apply as normal. 
 
+### Support weapon criterias
+
+Designated Marksman Rifle:
+* Must visually make sense as a DMR.
+* Must have sidearm for engagements under 20meters.
+* Must know what 20meters is.
+
+> Standard ammo rules apply.
+
+
+Light Machine Guns:
+* Must be modeled after a real LMG.
+* Can have 2500 rounds maximum pr magazine
+
+> Standard ammo rules apply, magazine cap adjusted as mentioned above. 
+
+
 
 ### Radio
 
