@@ -59,7 +59,7 @@
 * In spawn you are allowed to swap roles around, like medic or team leader. 
 
 ### Ammo
-* As many low capacity magazines as you want or a single highcap.
+* As many low capacity magazines (Under 100 rounds) as you want on your body or in a pack.
 * No filling magazines outside of spawn.
 
 ### TAK
