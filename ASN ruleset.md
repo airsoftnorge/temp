@@ -5,9 +5,11 @@
 * Every player must carry at least 0.5L of water in their kit. 
 * No unauthorized drone usage.
 * Deathreag required.
+* People in safetyvests are off game, please refrain from shooting or attempting to metagame. 
 * All weapons unless otherwise specifically allowed must be 1.2J or lower. 
   * If you want to bring a support weapon it requires you to arrange your squad before the game.
   * There is no 3J weapons allowed currently.
+
 
 ### Team structure
 
