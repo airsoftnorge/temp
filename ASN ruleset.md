@@ -63,6 +63,7 @@
 ### Ammo
 * As many low capacity magazines (Or mid caps loaded with maximum 100 rounds) as you want on your body or in a pack.
 * No filling magazines outside of spawn.
+> Organizing people to run back and reload for others is allowed.
 
 ### TAK
 * You can only be on your teams color server.
