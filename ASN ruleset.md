@@ -107,9 +107,9 @@ Each squad leader will be issued a squad radio with two channels:
 > Any member are allowed to use the squad net through the distributed radios.
 
 Squad leader net communication must follow this pattern:
-* Your callsign, being squad number . role
-* to
-* Target squad squad number
+* Target callsign
+* this is
+* Your callsign
 * Your actual message
 
 ##### Squad coms:
